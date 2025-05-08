@@ -1,0 +1,21 @@
+# IDE 설정 파일
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+
+# 빌드 결과물
+/dist
+/build 
